@@ -1,5 +1,5 @@
 # ML_practice
-Machine Learning practic projects
+Machine Learning practice projects
 
 ## List of projects
 
